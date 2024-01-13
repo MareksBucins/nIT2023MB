@@ -1,5 +1,5 @@
 import math
-#Task ID #3422
-skaitlis =  round(math.pi, 10)
-print("Pi skaitlis ar precizitāti līdz 10 cipariem aiz komata:" )
+
+skaitlis =  round(math.pi, 12)
+print("Pi skaitlis ar precizitāti līdz 12 cipariem aiz komata:" )
 print(skaitlis)
